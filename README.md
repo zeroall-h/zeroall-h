@@ -14,7 +14,7 @@
 </div>
 
 <h3>👀 Contact</h3>
-<a href="https://1953485789@naver.com">
-    <img src="http://img.shields.io/badge/Naver-03C75A?style=flat&logo=Email&logoColor=white&link=https://1953485789@naver.com"
+<a href="https://heodayeong@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-03C75A?style=flat&logo=Gmail&logoColor=white&link=https://heodayeong@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
