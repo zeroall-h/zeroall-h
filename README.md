@@ -35,3 +35,7 @@
 <h3>😎 My Github Status</h3>
 
 ![zeroall's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroall-h&show_icons=true&theme=radical)
+
+<h3>🏃‍♀️ Used Languages </h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroall-h&layout=compact)](https://github.com/zeroall-h/github-readme-stats)
