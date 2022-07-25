@@ -8,6 +8,8 @@
 <div>현재는 이젠아카데미에서 기초가 탄탄한 프론트엔드 개발자로 성장하기 위해 공부 중입니다!
 </div>
 
+*****
+
 ### 🛠 Skills
 #### Platforms & Languages
 <div>
