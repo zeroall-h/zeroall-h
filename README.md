@@ -25,12 +25,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-### 👀 Contact
-
-<a href="https://heodayeong@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://heodayeong@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>&nbsp;
 
 *****
 
@@ -41,3 +35,11 @@
 ### 🏃‍♀️ Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroall-h&layout=compact)](https://github.com/zeroall-h/github-readme-stats)
+*****
+### 👀 Contact
+
+<a href="https://heodayeong@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://heodayeong@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+
