@@ -27,6 +27,6 @@
 
 <h3>👀 Contact</h3>
 <a href="https://heodayeong@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-03C75A?style=flat&logo=heodayeong@gmail.com&logoColor=white&link=https://heodayeong@gmail.com"
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=heodayeong@gmail.com&logoColor=white&link=https://heodayeong@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
