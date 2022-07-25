@@ -1,4 +1,4 @@
-<h3>🤗 새로운 도전을 즐기는 자</h3>
+### 🤗 새로운 도전을 즐기는 자
 
 <div>사회복지 전공자로 NGO단체에서 6년 6개월 근무하던 중, </div>&nbsp;<div>단순 반복되는 엑셀 작업에 질려 개발에 대해 관심을 갖게 되었습니다.</div>&nbsp;
 
@@ -8,34 +8,34 @@
 <div>현재는 이젠아카데미에서 기초가 탄탄한 프론트엔드 개발자로 성장하기 위해 공부 중입니다!
 </div>
 
-
-<h3>🛠Skills</h3>
-<h4>Platforms & Languages</h4>
+### 🛠Skills
+#### Platforms & Languages
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-<h4>Tools</h4>
+#### Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-<h3>👀 Contact</h3>
+### 👀 Contact
 
 <a href="https://heodayeong@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://heodayeong@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 
+*****
 
-<h3>😎 My Github Status</h3>
+### 😎 My Github Status
 
 ![zeroall's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroall-h&show_icons=true&theme=radical)
 
-<h3>🏃‍♀️ Used Languages </h3>
+### 🏃‍♀️ Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroall-h&layout=compact)](https://github.com/zeroall-h/github-readme-stats)
