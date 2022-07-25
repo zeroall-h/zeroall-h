@@ -24,12 +24,14 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-
 <h3>👀 Contact</h3>
+
 <a href="https://heodayeong@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://heodayeong@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 
+
+<h3>😎 My Github Status</h3>
 
 ![zeroall's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroall-h&show_icons=true&theme=radical)
