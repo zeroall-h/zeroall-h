@@ -29,6 +29,7 @@
 <a href="https://heodayeong@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://heodayeong@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a>&nbsp;
+
 
 ![zeroall's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroall-h&show_icons=true&theme=radical)
