@@ -10,11 +10,11 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Zeplin-F37626?style=flat-square&logo=Zeplin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
 </div>
 
 <h3>👀 Contact</h3>
-<a href="https://heodayeong@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://heodayeong@gmail.com"
+<a href="https://1953485789@naver.com">
+    <img src="http://img.shields.io/badge/Naver-03C75A?style=flat&logo=Email&logoColor=white&link=https://1953485789@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
